@@ -1,0 +1,24 @@
+[
+
+    {
+        "title": "OLDINDAN SUPURIB TASHLASH",
+        "video_url" : "assets/video/usullar/lesson1/1.mp4",
+        "pdf_url" : "assets/pdf/lesson1/1.pdf"
+    },
+    {
+        "title": "QADAM BILAN XAMOXANG YON TOMONDAN SUPURIB TASHLASH",
+        "video_url" : "assets/video/usullar/lesson1/2.mp4",
+        "pdf_url" : "assets/pdf/lesson1/2.pdf"
+    },
+    {
+        "title": "ICHKARIDAN RAQIB OYOQ KAFTIDAN, TOVONIDAN SUPURISH",
+        "video_url" : "assets/video/usullar/lesson1/3.mp4",
+        "pdf_url" : "assets/pdf/lesson1/3.pdf"
+    },
+    {
+        "title": "TASHQARIDAN OYOQ YUZASI BILAN ILDIRISH",
+        "video_url" : "assets/video/usullar/lesson1/4.mp4",
+        "pdf_url" : "assets/pdf/lesson1/4.pdf"
+    }
+
+]

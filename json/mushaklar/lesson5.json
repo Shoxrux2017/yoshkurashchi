@@ -1,0 +1,47 @@
+[
+
+    {
+        "title_img" : "Yelkaning ikki va uch boshli mushaklari",
+        "img" : "assets/images/lesson5/1.jpg",
+        "title_content" : "Teskari planka mashqini bajarish",
+        "add_info" : "Meyori: 4x10 (10 martadan, 4 seriya)Seriyalar orasida dam olish 20 s",
+        "video" : "assets/video/mushaklar/lesson5/1.mp4"
+    },
+    {
+        "title_img" : "Trapesiyasimon mushak",
+        "img" : "assets/images/lesson5/2.png",
+        "title_content" : "2 ta 5 kg li gantellarni qo‘ga olib yelkalarni yuqoriga ko‘tarish",
+        "add_info" : "Meyori: 5x12 (12 martadan, 5 seriya)Seriyalar orasida dam olish 20 s",
+        "video" : "assets/video/mushaklar/lesson5/2.mp4"
+    },
+    {
+        "title_img" : "Belning kvadrat mushagi",
+        "img" : "assets/images/lesson5/3.jpg",
+        "title_content" : "Qo‘llarga tayangan holda sakrab oyoqlarni qo‘llar yoniga olib kelish va joyiga qaytish",
+        "add_info" : "Meyori: 4x15 (15 martadan, 4 seriya)Seriyalar orasida dam olish 20 s",
+        "video" : "assets/video/mushaklar/lesson5/3.mp4"
+    },
+    {
+        "title_img" : "Sonning ikki va to‘rt boshli mushaklari",
+        "img" : "assets/images/lesson5/4.jpg",
+        "title_content" : "O‘tirib yurish",
+        "add_info" : "Meyori: 5x10 (10 martadan, 5 seriya)Seriyalar orasida dam olish 20 s",
+        "video" : "assets/video/mushaklar/lesson5/4.mp4"
+    },
+    {
+        "title_img" : "Boldirning uch boshli mushagi",
+        "img" : "assets/images/lesson5/5.jpg",
+        "title_content" : "Bir oyoqda sakrab yurish",
+        "add_info" : "Meyori: 4x8 (8 martadan, 4 seriya)Seriyalar orasida dam olish 20 s",
+        "video" : "assets/video/mushaklar/lesson5/5.mp4"
+    },
+    {
+        "title_img" : "Oyoq barmoqlarini yozuvchi mushakar",
+        "img" : "assets/images/lesson5/6.png",
+        "title_content" : "Oyoqni cho‘zish",
+        "add_info" : "Meyori: 5x15 (15 martadan, 5 seriya)Seriyalar orasida dam olish 20 s",
+        "video" : "assets/video/mushaklar/lesson5/6.mp4"
+    }
+
+
+]

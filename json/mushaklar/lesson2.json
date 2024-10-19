@@ -1,0 +1,75 @@
+[
+
+    {
+        "title_img" : "Yelkaning ikki va uch boshli mushaklari",
+        "img" : "assets/images/lesson2/1.jpg",
+        "title_content" : "Chalqancha yotib shtanga grifini qisqa ushlagan holda qo‘llarni bukib yozish",
+        "add_info" : "Meyori: 5x6 (6 martadan, 5 seriya)Seriyalar orasida dam olish 20 s",
+        "video" : "assets/video/mushaklar/lesson2/1.mp4"
+    },
+    {
+        "title_img" : "Yelka kamari mushagi",
+        "img" : "assets/images/lesson2/2.jpg",
+        "title_content" : "Tik turgan holda gantellar bilan qo‘llarni yelkadan yuqoriga ko‘tarish",
+        "add_info" : "Meyori: 2x8 (8 martadan, 2 seriya)Seriyalar orasida dam olish 20 s",
+        "video" : "assets/video/mushaklar/lesson2/2.mp4"
+    },
+    {
+        "title_img" : "Trapesiyasimon mushak",
+        "img" : "assets/images/lesson2/3.jpg",
+        "title_content" : "O‘tirgan holatda 6 kg toshni peshonagacha ko‘tarish",
+        "add_info" : "Meyori: 4x6 (6 martadan, 4 seriya)Seriyalar orasida dam olish 20 s",
+        "video" : "assets/video/mushaklar/lesson2/3.mp4"
+    },
+    {
+        "title_img" : "Bo‘yin mushaklari",
+        "img" : "assets/images/lesson2/4.jpg",
+        "title_content" : "Kurash ko‘pirigi  mashqini bajarish",
+        "add_info" : "Meyori: 3x10 (10 martadan, 3 seriya)Seriyalar orasida dam olish 20 s",
+        "video" : "assets/video/mushaklar/lesson2/4.mp4"
+    },
+    {
+        "title_img" : "Ko‘krakning katta mushagi",
+        "img" : "assets/images/lesson2/5.jpg",
+        "title_content" : "Qo‘llarga tayanib sakrab yurish",
+        "add_info" : "Meyori: 2x10 (10 martadan, 2 seriya)Seriyalar orasida dam olish 20 s",
+        "video" : "assets/video/mushaklar/lesson2/5.mp4"
+    },
+    {
+        "title_img" : "Qorin tashqi va ichki mushaklari",
+        "img" : "assets/images/lesson2/6.png",
+        "title_content" : "Polga bel bilan yotgan holda oyoqlarni ko‘tarish (press)",
+        "add_info" : "Meyori: 4x12 (12 martadan, 4 seriya)Seriyalar orasida dam olish 20 s",
+        "video" : "assets/video/mushaklar/lesson2/6.mp4"
+    },
+    {
+        "title_img" : "Belning kvadrat mushagi",
+        "img" : "assets/images/lesson2/7.jpg",
+        "title_content" : "Yon tomonlama planka mashqini bajarish",
+        "add_info" : "Meyori: 4x10 (10 martadan, 4 seriya)Seriyalar orasida dam olish 20 s",
+        "video" : "assets/video/mushaklar/lesson2/7.mp4"
+    },
+    {
+        "title_img" : "Sonning ikki va to‘rt boshli mushaklari",
+        "img" : "assets/images/lesson2/8.jpg",
+        "title_content" : "O‘tirib sakrab yurish",
+        "add_info" : "Meyori: 3x8 (8 martadan, 3 seriya)Seriyalar orasida dam olish 20 s",
+        "video" : "assets/video/mushaklar/lesson2/8.mp4"
+    },
+    {
+        "title_img" : "Boldirning uch boshli mushagi",
+        "img" : "assets/images/lesson2/9.jpg",
+        "title_content" : "Oyoq barmoqlari tagiga patstavka qo‘yib oyoq barmoqlariga ko‘tarilish",
+        "add_info" : "Meyori: 4x12 (12 martadan, 4 seriya)Seriyalar orasida dam olish 20 s",
+        "video" : "assets/video/mushaklar/lesson2/9.mp4"
+    },
+    {
+        "title_img" : "Oyoq barmoqlarini bukuvchi mushaklar",
+        "img" : "assets/images/lesson2/10.jpg",
+        "title_content" : "Oyoq baroqlarini cho‘zish va egish",
+        "add_info" : "Meyori: 5x12 (12 martadan, 5 seriya)Seriyalar orasida dam olish 20 s",
+        "video" : "assets/video/mushaklar/lesson2/10.mp4"
+    }
+
+
+]

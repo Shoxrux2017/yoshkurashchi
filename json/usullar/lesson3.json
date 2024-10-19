@@ -1,0 +1,19 @@
+[
+
+    {
+        "title": "Orqadan, tashqaridan qo‘shsha qilish",
+        "video_url" : "assets/video/usullar/lesson3/1.mp4",
+        "pdf_url" : "assets/pdf/lesson3/1.pdf"
+    },
+    {
+        "title": "Ikki oyoq pastidan qo‘shsha",
+        "video_url" : "assets/video/usullar/lesson3/2.mp4",
+        "pdf_url" : "assets/pdf/lesson3/2.pdf"
+    },
+    {
+        "title": "Ichkaridan qo‘shsha",
+        "video_url" : "assets/video/usullar/lesson3/3.mp4",
+        "pdf_url" : "assets/pdf/lesson3/3.pdf"
+    }
+
+]

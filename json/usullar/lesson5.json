@@ -1,0 +1,24 @@
+[
+
+    {
+        "title": "Oldindan yelka",
+        "video_url" : "assets/video/usullar/lesson5/1.mp4",
+        "pdf_url" : "assets/pdf/lesson5/1.pdf"
+    },
+    {
+        "title": "Yelkadan oshirib tashlash",
+        "video_url" : "assets/video/usullar/lesson5/2.mp4",
+        "pdf_url" : "assets/pdf/lesson5/2.pdf"
+    },
+    {
+        "title": "Ikki yengidan ushlagan holda yelkadan oshirib uloqtirish",
+        "video_url" : "assets/video/usullar/lesson5/3.mp4",
+        "pdf_url" : "assets/pdf/lesson5/3.pdf"
+    },
+    {
+        "title": "Qarama - qarshi ushlash bilan orqadan oshirib tashlash",
+        "video_url" : "assets/video/usullar/lesson5/4.mp4",
+        "pdf_url" : "assets/pdf/lesson5/4.pdf"
+    }
+
+]

@@ -1,0 +1,47 @@
+[
+
+    {
+        "title_img" : "Yelkaning uch boshli mushagi",
+        "img" : "assets/images/lesson6/1.jpg",
+        "title_content" : "To‘ldirma to‘pni yuqoriga uloqtirish va qayta ilib olish",
+        "add_info" : "Meyori: 4x8 (8 martadan, 4 seriya)Seriyalar orasida dam olish 20 s",
+        "video" : "assets/video/mushaklar/lesson6/1.mp4"
+    },
+    {
+        "title_img" : "Bo‘yin mushaklari",
+        "img" : "assets/images/lesson6/2.jpg",
+        "title_content" : "Boshni gilamga qo‘yib, boshga tayangan holda, bosh atrofida aylanish",
+        "add_info" : "Meyori: 4x10 (10 martadan, 4 seriya)Seriyalar orasida dam olish 20 s",
+        "video" : "assets/video/mushaklar/lesson6/2.mp4"
+    },
+    {
+        "title_img" : "Belning kvadrat mushagi",
+        "img" : "assets/images/lesson6/3.jpg",
+        "title_content" : "Qoringa yotgan holda gavda va oyoqlarni ko‘tarish",
+        "add_info" : "Meyori: 3x12 (12 martadan, 3 seriya)Seriyalar orasida dam olish 20 s",
+        "video" : "assets/video/mushaklar/lesson6/3.mp4"
+    },
+    {
+        "title_img" : "Trapesiyasimon mushak",
+        "img" : "assets/images/lesson6/4.png",
+        "title_content" : "Tik turib rezinani oyoqlar tagiga bosgan holatda qo‘llar bilan yuqoriga tortish",
+        "add_info" : "Meyori: 4x8 (8 martadan, 4 seriya)Seriyalar orasida dam olish 20 s",
+        "video" : "assets/video/mushaklar/lesson6/4.mp4"
+    },
+    {
+        "title_img" : "Sonning ikki va to‘rt boshli mushaklari",
+        "img" : "assets/images/lesson6/5.jpg",
+        "title_content" : "Gimnastika o‘rindig‘iga sakrab chiqish va sakrab tushish",
+        "add_info" : "Meyori: 3x12 (12 martadan, 3 seriya)Seriyalar orasida dam olish 20 s",
+        "video" : "assets/video/mushaklar/lesson6/5.mp4"
+    },
+    {
+        "title_img" : "Boldirning uch boshli mushagi",
+        "img" : "assets/images/lesson6/6.jpg",
+        "title_content" : "Yarim o‘tirib turish",
+        "add_info" : "Meyori: 4x10 (10 martadan, 4 seriya)Seriyalar orasida dam olish 20 s",
+        "video" : "assets/video/mushaklar/lesson6/6.mp4"
+    }
+
+
+]

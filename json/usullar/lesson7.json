@@ -1,0 +1,14 @@
+[
+
+    {
+        "title": "Yondan yonbosh",
+        "video_url" : "assets/video/usullar/lesson7/1.mp4",
+        "pdf_url" : "assets/pdf/lesson7/1.pdf"
+    },
+    {
+        "title": "Orqadan yonbosh",
+        "video_url" : "assets/video/usullar/lesson7/2.mp4",
+        "pdf_url" : "assets/pdf/lesson7/2.pdf"
+    }
+
+]

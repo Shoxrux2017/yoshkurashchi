@@ -1,0 +1,68 @@
+[
+
+    {
+        "title_img" : "Bilak tirsak mushaklari",
+        "img" : "assets/images/lesson1/1.jpg",
+        "title_content" : "Kurash gilamiga o‘tirgan xolda stulga bilak tirsakni qo‘yib shtanga griftini kistlar yordamida ko‘tarish va tushurish",
+        "add_info" : "Meyori: 3x12 (12 martadan, 3 seriya). Seriyalar orasida dam olish 20 s",
+        "video" : "assets/video/mushaklar/lesson1/1.mp4"
+    },
+    {
+        "title_img" : "Trapesiyasimon mushagi",
+        "img" : "assets/images/lesson1/2.png",
+        "title_content" : "Tik turgan xolatda 6 kg toshni peshonagacha ko'tarish",
+        "add_info" : "Meyori: 4x6 (6 martadan, 4 seriya). Seriyalar orasida dam olish 20 s",
+        "video" : "assets/video/mushaklar/lesson1/2.mp4"
+    },
+    {
+        "title_img" : "Ko‘krakning katta mushagi",
+        "img" : "assets/images/lesson1/3.jpg",
+        "title_content" : "Qo'llarga tayanib qo'llarni bukib yozish",
+        "add_info" : "Meyori: 4x10 (10 martadan, 4 seriya). Seriyalar orasida dam olish 20 s",
+        "video" : "assets/video/mushaklar/lesson1/3.mp4"
+    },
+    {
+        "title_img" : "Yelka kamari mushagi",
+        "img" : "assets/images/lesson1/4.jpg",
+        "title_content" : "Tik turgan xolda gantellar bilan qo'llarni yon tomonga ko‘tarish",
+        "add_info" : "Meyori: 2x10 (10 martadan, 2 seriya). Seriyalar orasida dam olish 20 s",
+        "video" : ""
+    },
+    {
+        "title_img" : "Belning keng mushagi",
+        "img" : "assets/images/lesson1/5.jpg",
+        "title_content" : "Turnikda tortilish",
+        "add_info" : "Meyori: 3x10 (10 martadan, 3 seriya). Seriyalar orasida dam olish 20 s",
+        "video" : "assets/video/mushaklar/lesson1/5.mp4"
+    },
+    {
+        "title_img" : "Qorinning to'g'ri mushagi",
+        "img" : "assets/images/lesson1/6.jpg",
+        "title_content" : "Polga bel bilan yotgan holda gavdani ko'tarish (press)",
+        "add_info" : "Meyori: 3x12 (12 martadan, 3 seriya). Seriyalar orasida dam olish 20 s",
+        "video" : "assets/video/mushaklar/lesson1/6.mp4"
+    },
+    {
+        "title_img" : "Sonning ikki va to'rt boshli mushaklari",
+        "img" : "assets/images/lesson1/7.png",
+        "title_content" : "Shtanga bilan o‘tirib turish",
+        "add_info" : "Meyori: 2x8 (8 martadan, 2 seriya). Seriyalar orasida dam olish 20 s",
+        "video" : "assets/video/mushaklar/lesson1/7.mp4"
+    },
+    {
+        "title_img" : "Boldirning uch boshli mushagi",
+        "img" : "assets/images/lesson1/8.jpg",
+        "title_content" : "Oyoq barmoqlariga ko‘tarilish",
+        "add_info" : "Meyori: 5x15 (15 martadan, 4 seriya). Seriyalar orasida dam olish 20 s",
+        "video" : "assets/video/mushaklar/lesson1/8.mp4"
+    },
+    {
+        "title_img" : "Boldirning oldi yuzasidagi mushaklar. Oyoq barmoqlarini bukuvchi mushaklar",
+        "img" : "assets/images/lesson1/9.jpg",
+        "title_content" : "Gantellar bilan oyoq barmoqlariga ko'tarilish",
+        "add_info" : "Meyori: 4x10 (10 martadan, 4 seriya). Seriyalar orasida dam olish 20 s",
+        "video" : "assets/video/mushaklar/lesson1/9.mp4"
+    }
+
+
+]

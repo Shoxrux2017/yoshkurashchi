@@ -1,0 +1,110 @@
+[
+
+    {
+
+        "img" : "assets/images/additional/1.png",
+        "title_content" : "Chalqancha yotgan holatda qo‘shimcha harakat bilan qo‘llarni bir - biriga orqa tomondan yaqinlashtirish. (sherik)",
+        "add_info" : "Meyori: 3x10 (10 soniyadan, 3 seriya). Seriyalar orasida dam olish 20 s",
+        "video" : "assets/video/additional/1.mp4"
+    },
+    {
+      
+        "img" : "assets/images/additional/2.png",
+        "title_content" : "Oyoqlari keng ochib o‘tirgan holatda sherikning yordami bilan oldinga egilish",
+        "add_info" : "Meyori: 3x20 (20 soniyadan, 3 seriya). Seriyalar orasida dam olish 20 s",
+        "video" : "assets/video/additional/2.mp4"
+    },
+    {
+ 
+        "img" : "assets/images/additional/3.png",
+        "title_content" : "Oyoqlari keng ochib o‘tirgan holatda sherikning yordami bilan o‘ng oyoqlarga egilish",
+        "add_info" : "Meyori: 3x20 (20 soniyadan, 3 seriya). Seriyalar orasida dam olish 20 s",
+        "video" : "assets/video/additional/3.mp4"
+    },
+    {
+    
+        "img" : "assets/images/additional/4.png",
+        "title_content" : "Oyoqlari keng ochib o‘tirgan holatda sherikning yordami bilan chap oyoqlarga egilish",
+        "add_info" : "Meyori: 3x20 (20 soniyadan , 3 seriya). Seriyalar orasida dam olish 20 s",
+        "video" : "assets/video/additional/4.mp4"
+    },
+    {
+ 
+        "img" : "assets/images/additional/5.png",
+        "title_content" : "Qo‘llarga tayangan xolda sakrab oyoqlarni qo‘llar yoniga olib kelish va joyiga qaytish",
+        "add_info" : "Meyori: 3x15 (15 martadan, 3 seriya). Seriyalar orasida dam olish 20 s",
+        "video" : "assets/video/additional/5.mp4"
+    },
+    {
+  
+        "img" : "assets/images/additional/6.png",
+        "title_content" : "Qoringa yotgan xolda oyoqlarni orqa tomondan qo‘l bilan ushlab gavdani kerib ko‘tarish",
+        "add_info" : "Meyori: 3x20 (20 soniyadan, 3 seriya). Seriyalar orasida dam olish 20 s",
+        "video" : "assets/video/additional/6.mp4"
+    },
+    {
+    
+        "img" : "assets/images/additional/7.png",
+        "title_content" : "Kurashda ko‘prik holatida mashq qilish (most)",
+        "add_info" : "Meyori: 3x30 (30 soniyadan, 3 seriya). Seriyalar orasida dam olish 20 s",
+        "video" : "assets/video/additional/7.mp4"
+    },
+    {
+  
+        "img" : "assets/images/additional/8.png",
+        "title_content" : "Ko‘prik holatida bosh o‘qi atrofida aylanish. Boshlar va qo‘llar bilan yerga tayangan holda turadi, oyoqlar bilan esa bosh o‘qi atrofida aylanadi",
+        "add_info" : "Meyori: 3x30 (30 soniyadan, 3 seriya). Seriyalar orasida dam olish 20 s",
+        "video" : "assets/video/additional/8.mp4"
+    },
+    {
+     
+        "img" : "assets/images/additional/9.png",
+        "title_content" : "Ko‘prik holatida bosh o‘qi atrofida aylanish. Faqat qo‘llar bilan yerga tayangan holda turadi, oyoqlar bilan esa bosh o‘qi atrofida aylanadi",
+        "add_info" : "Meyori: 3x30 (30 soniyadan, 3 seriya). Seriyalar orasida dam olish 20 s",
+        "video" : "assets/video/additional/9.mp4"
+    }, 
+    {
+     
+        "img" : "assets/images/additional/10.png",
+        "title_content" : "Ko‘prik holatida oldinga va orqaga bosh o‘qi atrofida sakrab harakatlanish. Boshlar va qo‘llar bilan yerga tayangan holda turadi, oyoqlar bilan esa oldinga va orqaga bosh o‘qi atrofida sakrab harakatlanada",
+        "add_info" : "Meyori: 3x30 (30 soniyadan, 3 seriya). Seriyalar orasida dam olish 20 s",
+        "video" : "assets/video/additional/10.mp4"
+    },
+    {
+  
+        "img" : "assets/images/additional/11.png",
+        "title_content" : "Ko‘prik holatida oldinga va orqaga bosh o‘qi atrofida sakrab harakatlanish. Faqat qo‘llar bilan yerga tayangan holda turadi, oyoqlar bilan esa oldinga va orqaga bosh o‘qi atrofida sakrab harakatlanada",
+        "add_info" : "Meyori: 3x10 (30 soniyadan, 3 seriya). Seriyalar orasida dam olish 20 s",
+        "video" : "assets/video/additional/11.mp4"
+    },
+    {
+  
+        "img" : "assets/images/additional/12.png",
+        "title_content" : "Shvet devori yaqinida turib oyoqlarni yon tomondan va orqadan yuqoriga siltab ko‘tarish",
+        "add_info" : "Meyori: 3x15 (15 martadan, 3 seriya). Seriyalar orasida dam olish 20 s",
+        "video" : "assets/video/additional/12.mp4"
+    },
+    {
+   
+        "img" : "assets/images/additional/13.png",
+        "title_content" : "Shvet devori yaqinida turib oyoqlarni orqadan yuqoriga siltab ko‘tarish",
+        "add_info" : "Meyori: 3x15 (15 martadan, 3 seriya). Seriyalar orasida dam olish 20 s",
+        "video" : "assets/video/additional/13.mp4"
+    },
+    {
+   
+        "img" : "assets/images/additional/14.png",
+        "title_content" : "Shvet devori yaqinida turib oyoqlarni (devorga va oyoq to‘pig‘iga rezina bog‘lab) yon tomondan yuqoriga siltab ko‘tarish",
+        "add_info" : "Meyori: 3x15 (15 martadan, 3 seriya). Seriyalar orasida dam olish 20 s",
+        "video" : "assets/video/additional/14.mp4"
+    },
+    {
+     
+        "img" : "assets/images/additional/15.png",
+        "title_content" : "Shvet devori yaqinida turib oyoqlarni (devorga va oyoq to‘pig‘iga rezina bog‘lab) orqadan yuqoriga siltab ko‘tarish",
+        "add_info" : "Meyori: 3x15 (15 martadan, 3 seriya). Seriyalar orasida dam olish 20 s",
+        "video" : "assets/video/additional/15.mp4"
+    }
+
+
+]

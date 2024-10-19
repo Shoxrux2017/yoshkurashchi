@@ -1,0 +1,54 @@
+[
+
+    {
+        "title_img" : "Ko‘krakning keng mushagi",
+        "img" : "assets/images/lesson4/1.jpg",
+        "title_content" : "Brusiyada qo‘llarga tayanib qo‘llarni bukib yozish",
+        "add_info" : "Meyori: 3x10 (10 martadan, 3 seriya)Seriyalar orasida dam olish 20 s",
+        "video" : "assets/video/mushaklar/lesson4/1.mp4"
+    },
+    {
+        "title_img" : "Yelkaning ikki va uch boshli mushaklari",
+        "img" : "assets/images/lesson4/2.jpg",
+        "title_content" : "Tik turgan holda shtanga grifini yelka kengligida ushlab qo‘llarni oldindan ko‘krakgacha ko‘tarish",
+        "add_info" : "Meyori: 3x6 (6 martadan, 3 seriya)Seriyalar orasida dam olish 20 s",
+        "video" : "assets/video/mushaklar/lesson4/2.mp4"
+    },
+    {
+        "title_img" : "Bilak tirsak mushaklari",
+        "img" : "assets/images/lesson4/3.jpg",
+        "title_content" : "10 metirlik arqonni yengil mashina baloniga bog‘lab tortish",
+        "add_info" : "Meyori: 5x10m (10m martadan, 5 seriya)Seriyalar orasida dam olish 20 s",
+        "video" : "assets/video/mushaklar/lesson4/3.mp4"
+    },
+    {
+        "title_img" : "Belning kvadrat mushagi",
+        "img" : "assets/images/lesson4/4.jpg",
+        "title_content" : "Qoringa yotgan holda gavdani ko‘tarish",
+        "add_info" : "Meyori: 5x10 (10 martadan, 5 seriya)Seriyalar orasida dam olish 20 s",
+        "video" : "assets/video/mushaklar/lesson4/4.mp4"
+    },
+    {
+        "title_img" : "Trapesiyasimon mushak",
+        "img" : "assets/images/lesson4/5.png",
+        "title_content" : "Yelka kengligidan kenroq ushlagan holda turnikka tortilish (turnikka bo‘yinni orqasini tekizish)",
+        "add_info" : "Meyori: 3x10 (10 martadan, 3 seriya)Seriyalar orasida dam olish 20 s",
+        "video" : "assets/video/mushaklar/lesson4/5.mp4"
+    },
+    {
+        "title_img" : "Qorin mushaklari",
+        "img" : "assets/images/lesson4/6.jpg",
+        "title_content" : "Polga o‘tirgan holatda qo‘llarga tayanmasdan qaychi mashqini bajarish",
+        "add_info" : "Meyori: 3x10 (10 martadan, 3 seriya)Seriyalar orasida dam olish 20 s",
+        "video" : "assets/video/mushaklar/lesson4/6.mp4"
+    },
+    {
+        "title_img" : "Boldirni uch boshli mushagi",
+        "img" : "assets/images/lesson4/7.jpg",
+        "title_content" : "Devorga tayangan holda bir oyoqda otirib turish",
+        "add_info" : "Meyori: 3x8 (8 martadan, 3 seriya)Seriyalar orasida dam olish 20 s",
+        "video" : "assets/video/mushaklar/lesson4/7.mp4"
+    }
+
+
+]

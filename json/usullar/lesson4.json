@@ -1,0 +1,19 @@
+[
+
+    {
+        "title": "Beldan oshirib uloqtirish",
+        "video_url" : "assets/video/usullar/lesson4/1.mp4",
+        "pdf_url" : "assets/pdf/lesson4/1.pdf"
+    },
+    {
+        "title": "Bo‘yindan o‘rab, beldan oshirib uloqtirish",
+        "video_url" : "assets/video/usullar/lesson4/2.mp4",
+        "pdf_url" : "assets/pdf/lesson4/2.pdf"
+    },
+    {
+        "title": "Bir qo‘l bilan ushlagan holda beldan oshirib uloqtirish",
+        "video_url" : "assets/video/usullar/lesson4/3.mp4",
+        "pdf_url" : "assets/pdf/lesson4/3.pdf"
+    }
+
+]
